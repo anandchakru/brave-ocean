@@ -1,0 +1,22 @@
+{
+  "generator": "genesis2",
+  "version": "2.0.0",
+  "projectName": "brave-ocean",
+  "projectId": 35,
+  "genId": 35,
+  "domain": "rathnas.com",
+  "sld": "rathnas",
+  "tld": "com",
+  "owner": "anandchakru",
+  "repo": "brave-ocean",
+  "generatedAt": "2025-08-30T08:36:14.294Z",
+  "generatedBy": "genesis2-api",
+  "modules": [
+  ],
+  "metadata": {
+    "version": "1.0.0",
+    "license": "MIT",
+    "tags": [
+    ]
+  }
+}
